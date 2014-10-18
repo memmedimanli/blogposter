@@ -1,0 +1,244 @@
+.header{
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 40px;
+	margin: auto;
+	background:  #F55A4E;
+}
+
+.greeting{
+	margin-left: 1070px;
+	margin-top: -31px;
+}
+
+.greeting p {
+	color: #FFF; 
+	font-family: "Helvetica Neue",Helvetica,Arial,"lucida grande",tahoma,verdana,arial,sans-serif; 
+	font-weight: bold;'
+}
+
+.greeting a {
+	color : #064072;
+}
+
+.login_style{
+	margin-left: 154px;
+	color : #064072;
+}
+
+.post_context   {
+  margin-bottom: 12px; 
+  margin-top: 20px; 
+  margin-left: 76px;
+}
+
+.textarea_post {
+	margin-left: 230px; 
+	margin-top: -82px;
+}
+
+#post_submit{
+	margin-left: 485px; 
+	margin-top: -50px;"
+}
+
+.post_body {
+	margin: 65px; 
+	margin-left: 170px;"
+}
+
+.post_username{
+	font-size: 16px; 
+	margin-left: 76px; 
+	margin-top: -55px;"
+}
+
+.post_font{
+	color : #3B5998; 
+	font-weight: bold;
+}
+
+#alert {
+	margin-left: 238px; 
+	margin-right: 377px;
+}
+
+
+
+.textarea2 {
+	margin-left: 40px; 
+	margin-top: 13px;
+	margin-bottom: 22px;
+}
+
+.showarea_comment {
+	margin-left: 79px;
+}
+
+.comment_body{
+	margin-left: 50px;
+}
+
+.comment_username{
+    margin-left: 50px; 
+    margin-top: -42px;    
+    font-size: 16px; 
+    color: #3B5998;
+}
+
+.comment_date p {
+	font-size: 12px; 
+	margin-left: 50px;
+}
+
+.comment_context{
+	margin-left: 56px; 
+	margin-top: 20px; 
+	margin-bottom: 24px;
+}
+
+.pagination{
+	margin-left: 550px;
+}
+.pagination a, .pagination strong {
+
+	 background: #e3e3e3;
+	 padding: 4px 7px;
+	 text-decoration: none;
+	border: 1px solid #cac9c9;
+	color: #292929;
+	font-size: 13px;
+	}
+
+	.pagination strong, .pagination a:hover {
+	 font-weight: normal;
+	 background: #cac9c9;
+	}	
+
+	.pagination_profile{
+	margin-left: 806px;
+}
+.pagination_profile a, .pagination_profile strong {
+
+	 background: #e3e3e3;
+	 padding: 4px 7px;
+	 text-decoration: none;
+	border: 1px solid #cac9c9;
+	color: #292929;
+	font-size: 13px;
+	}
+
+	.pagination_profile strong, .pagination_profile a:hover {
+	 font-weight: normal;
+	 background: #cac9c9;
+	}	
+
+.container {
+	margin: 173px 173px 173px 138px;
+}
+
+.container h3 {
+     text-align: center;
+}
+
+.container h5 {
+	text-align: center;
+}
+
+.profile_picture{
+	margin-left: 350px; 
+	margin-top: 30px;
+}
+
+.profile_main_username{
+	margin-left: 550px; 
+	margin-top: -120px; 
+	font-size: 25px;
+}
+
+.profile_main_username font{
+	color : #3B5998;
+	font-weight: bold;
+}
+
+.profile_main_username p{
+	font-style: italic; 
+	margin-top: 23px;
+}
+
+.my_posts{
+	margin-left: 550px; 
+	margin-top: 102px;
+}
+
+.profile_body{
+	margin: 77px 325px 114px 414px;
+}
+
+.profile_username{
+	font-size: 16px; 
+	margin-left: 76px; 
+	margin-top: -55px;
+}
+
+.profile_username font{
+   color : #3B5998;
+   font-weight: bold;
+}
+
+.profile_context{
+	margin-bottom: 12px; 
+	margin-top: 20px; 
+	margin-left: 76px;
+}
+
+.profile_delete_button{
+	margin-top: -35px; 
+	margin-left: 170px; 
+	position: relative;
+
+}
+
+.comment{
+	margin-left: 50px;
+}
+
+.profile_comment_username{
+	margin-left: 50px; 
+	margin-top: -42px;    
+	font-size: 16px; 
+	color: #3B5998;
+}
+
+.profile_comment_date p{
+	font-size: 12px;
+	margin-left: 50px;
+}
+
+.profile_comment_context{
+	margin-left: 56px; 
+	margin-top: 20px;
+	margin-bottom: 24px;
+}
+
+.login_register{
+	margin-left: 238px;
+}
+
+.success_main fieldset{
+	margin-left: 370px; 
+	margin-top: 163px; 
+	font-size: 32px; 
+	font-family: serif;
+}
+
+.success_image{
+	margin-left: 550px; 
+	margin-top: 24px;
+}
+
+.success_bp p{
+	margin-left: 500px; 
+	font-size: 60px; 
+	font-family: Comic Sans MS;
+}
