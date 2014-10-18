@@ -4,7 +4,7 @@
 			<div class="col-lg-10">
 			<fieldset>
 
-    		   
+    		               <?php if($this->session->userdata('username')):?>
 				<form class="form-horizontal" role="form" id="post" action='<?= base_url();?>index.php/site/add_post' method="post">
 				 <div class="form-group">				    
 				    <div class="col-md-6 textarea_post" >
@@ -17,6 +17,7 @@
 				    </div>
 				  </div>
 				</form>
+                               <?php endif;?>
 
 				<div >
 					<?php foreach ($query as $row): ?>   
